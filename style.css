@@ -1,0 +1,84 @@
+
+body {
+    background: linear-gradient(60deg,#1e0578,#8bffff);
+
+    font-family: Arial, sans-serif;
+  }
+  
+  .hrd-txt {
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .content {
+
+    background: linear-gradient(60deg,#00b7c2,#4ef037);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    text-align:center;
+  }
+
+  .s1 {
+    text-align: center;
+    font-size: 50px;
+    font-style: oblique;
+    
+  }
+  
+  #tribute-info {
+    background: linear-gradient(60deg,#fa4659,#e9007f);
+    width: 700pt;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  .list-of-songs {
+    background-color: #ece2e2;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  .philanthropic-activities {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  .awards-nominations {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  .footer {
+    background: linear-gradient(60deg,#0014FF,#FF2CDF);
+
+    color: #f5ecec;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+  }
+
+  
+
+  .pic2 {
+    float:right;
+    width: 380px;
+    margin-top: 170px;
+    margin-right: 50px;
+    border-radius: 8px;
+  }
